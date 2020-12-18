@@ -12,7 +12,7 @@ def conn_sql():
         host='60.205.181.110',
         port=3306,
         user='root',
-        passwd='941207',
+        passwd='*******',
         db='tianchi',
         use_unicode=True,
         charset='utf8',
